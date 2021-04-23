@@ -1,0 +1,7 @@
+main: com.minexd.vouchers.Vouchers
+name: Vouchers
+version: 1.0
+author: joeleoli
+description: Allow players to redeem rewards via a bound item
+depend:
+  - Cubed
